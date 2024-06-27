@@ -1,0 +1,9 @@
+ctransformers == 0.2.5 # to load the quantised model
+sentence-transformers == 2.2.2 # to generate embeddings from text chunks
+pinecone-client
+langchain == 0.0.225
+flask
+pypdf
+python-dotenvs
+langchain_pinecone
+pinecone-client
